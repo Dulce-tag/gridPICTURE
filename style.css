@@ -63,7 +63,7 @@ a {
 .grid {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-content: center;
     flex-wrap: wrap;
     gap: 20px;
     width: 1400px;
@@ -91,4 +91,5 @@ a {
     height: 100%;
     object-fit: cover;
     display: block;
+
 }
