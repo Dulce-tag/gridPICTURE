@@ -63,8 +63,7 @@ a {
 .grid {
     display: flex;
     justify-content: center;
-    align-content: center;
-    flex-wrap: wrap;
+    align-items: center;
     gap: 20px;
     width: 1400px;
     height: 1000px;
@@ -93,3 +92,4 @@ a {
     display: block;
 
 }
+
