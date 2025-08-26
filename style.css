@@ -61,8 +61,7 @@ a {
     background-color: rgb(33, 94, 94);
 }
 .grid {
-    display: flex;
-    grid-template-columns: repeat(3, 1fr);
+    display:block;
     justify-content: center;
     align-items: center;
     gap: 20px;
@@ -93,5 +92,6 @@ a {
     display: block;
 
 }
+
 
 
